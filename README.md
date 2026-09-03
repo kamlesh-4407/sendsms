@@ -35,7 +35,7 @@ Registeration Number :212224100029
 */
 ```
 ## MAIN_ACTIVITY.JAVA
-```
+```java
 package com.example.smssender;
 
 import android.app.Activity;
@@ -82,7 +82,7 @@ public class MainActivity extends Activity {
 }
 ```
 ### MAIN_ACTIVITY.XML
-```
+```xml
 <?xml version="1.0" encoding="utf-8"?>
 
 <LinearLayout
